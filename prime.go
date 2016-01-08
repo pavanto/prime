@@ -1,4 +1,4 @@
-/ Package prime contains a helper function to check whether
+// Package prime contains a helper function to check whether
 // an integer is prime. In the future, it may contain other
 // functions, but the API will remain backward-compatible.
 package prime
